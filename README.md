@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Angular" title="Angular" src="./src/favicon.ico" width="35px" />
+   Caixeiro Viajnte com Algoritmo Genético
 </h1>
 
 <p align="center">
