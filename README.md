@@ -17,9 +17,9 @@
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiiagolourenco/Bloco-De-Tarefas?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thiiagolourenco/Algoritmo-Genetico-TSP?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/thiiagolourenco/Bloco-De-Tarefas">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/thiiagolourenco/Algoritmo-Genetico-TSP">
 
 </p>
 
@@ -59,10 +59,10 @@ Comece realizando um clone deste projeto, se preferir você também pode baixar 
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/thiiagolourenco/Proffy
+$ git clone https://github.com/thiiagolourenco/Algoritmo-Genetico-TSP
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd proffy
+$ cd Algoritmo-Genetico-TSP
 ```
 
 ### Rodando a aplicação
