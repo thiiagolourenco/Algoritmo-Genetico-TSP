@@ -95,10 +95,6 @@ Feito por Thiago Lourenço
   <img alt="Feito por thiiagolourenco" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lourenço-201053173/">
 </a>
 
-<a href="https://github.com/thiiagolourenco" style="margin-left: 8px;">
-  <img alt="Feito por thiiagolourenco" src="https://img.shields.io/badge/-GitHub-grey?style=flat&logo=GitHub&logoColor=white&link=https://github.com/thiiagolourenco">
-</a>
-
 
 # Observações
 
